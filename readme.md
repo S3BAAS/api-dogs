@@ -14,7 +14,7 @@
 Clone the repository and install the requirements.
 
 ```bash
-git clone https://github.com/zoenr/api-dogs.git
+git clone https://github.com/S3BAAS/api-dogs.git
 cd api-dogs
 pip install -r requirements.txt
 ```
