@@ -23,15 +23,13 @@ pip install -r requirements.txt
 
 Start the development server with FastAPI or Uvicorn.
 
-### Using FastAPI
-
 ```bash
+# FastAPI
 fastapi dev main.py --reload
 ```
 
-### Using Uvicorn
-
 ```bash
+# Uvicorn
 uvicorn main:app --reload
 ```
 
