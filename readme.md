@@ -66,23 +66,3 @@ The `middleware` folder contains middlewares used in the project.
 ### rate_limit
 
 This middleware limits the number of requests per minute.
-
-## Virtual Environment
-
-Activate the virtual environment:
-
-```bash
-# Linux/MacOS
-source venv/bin/activate
-```
-
-```bash
-# Windows
-venv\Scripts\activate
-```
-
-Deactivate the virtual environment:
-
-```bash
-deactivate
-```
